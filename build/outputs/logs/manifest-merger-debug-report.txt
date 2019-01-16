@@ -1,0 +1,247 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [:sliding_menu] D:\software\MAXST\Samples\sliding_menu\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\160066ee460542e1f3c9d888fc63dfb5\AndroidManifest.xml:2:1-11:12
+MERGED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\20935625b7bb43c629ceb6497aec8aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3992889cb7f7a371ca1c40117c3ee57c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23721dfe38124d81010af7a81508598a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\947ce9755ca4aa477ddde93dce16445d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f1aafa9235c9e2adcf5341069410f127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\575d08aaab672911bb5e0ebef72598bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a6c3996189a8963c2e59394e2b41992\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\398220bb1db4c4e0a55cc350d8548bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16d5f05c7db2ca04c896f3c1aa23e138\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fe83cebdc5886f276e3f7116773305c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f60fcffea2654fb5f3a11049faa43fa5\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:11-40
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:2:1-106:12
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:9:5-104:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\160066ee460542e1f3c9d888fc63dfb5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\160066ee460542e1f3c9d888fc63dfb5\AndroidManifest.xml:9:5-20
+MERGED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:9:5-15:19
+	android:supportsRtl
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:11:9-40
+	android:allowBackup
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:14:9-40
+activity#com.maxst.ar.sample.PermissionCheckActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:15:9-19:20
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:16:13-52
+activity#com.maxst.ar.sample.ActivitySplashScreen
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:21:9-32:20
+	android:screenOrientation
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:24:13-49
+	android:noHistory
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:25:13-37
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:23:13-93
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:22:13-49
+activity#com.maxst.ar.sample.MainActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:33:9-36:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:36:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:34:13-41
+activity#com.maxst.ar.sample.SettingsActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:37:9-40:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:39:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:40:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:38:13-45
+activity#com.maxst.ar.sample.imageTracker.ImageTrackerActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:42:9-48:20
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:45:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:43:13-62
+activity#com.maxst.ar.sample.markerTracker.MarkerTrackerActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:50:9-53:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:52:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:53:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:51:13-64
+activity#com.maxst.ar.sample.instantTracker.InstantTrackerActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:55:9-58:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:58:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:56:13-66
+activity#com.maxst.ar.sample.slam.SlamActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:60:9-64:79
+	android:screenOrientation
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:63:13-50
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:62:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:64:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:61:13-46
+activity#com.maxst.ar.sample.slam.MapSelectActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:66:9-69:49
+	android:label
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:69:13-47
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:68:13-55
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:67:13-51
+activity#com.maxst.ar.sample.slam.ObjectTrackerActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:71:9-74:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:73:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:74:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:72:13-55
+activity#com.maxst.ar.sample.code.CodeScanActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:76:9-79:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:78:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:79:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:77:13-50
+activity#com.maxst.ar.sample.wearable.WearableDeviceRenderingActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:81:9-85:79
+	android:screenOrientation
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:84:13-50
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:83:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:85:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:82:13-69
+activity#com.maxst.ar.sample.camera_config.CameraConfigureActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:87:9-90:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:89:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:90:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:88:13-66
+activity#com.maxst.ar.sample.cloudRecognizer.CloudRecognizerActivity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:92:9-95:79
+	android:configChanges
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:94:13-59
+	android:theme
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:95:13-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:93:13-68
+activity#com.maxst.ar.sample.M_main_activity
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:96:9-103:20
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:96:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:98:13-102:29
+action#android.intent.action.MAIN
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:99:17-69
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:99:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:101:17-77
+	android:name
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml:101:27-74
+uses-sdk
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+MERGED from [:sliding_menu] D:\software\MAXST\Samples\sliding_menu\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:sliding_menu] D:\software\MAXST\Samples\sliding_menu\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\160066ee460542e1f3c9d888fc63dfb5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\160066ee460542e1f3c9d888fc63dfb5\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\20935625b7bb43c629ceb6497aec8aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\20935625b7bb43c629ceb6497aec8aaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3992889cb7f7a371ca1c40117c3ee57c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3992889cb7f7a371ca1c40117c3ee57c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23721dfe38124d81010af7a81508598a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\23721dfe38124d81010af7a81508598a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\947ce9755ca4aa477ddde93dce16445d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\947ce9755ca4aa477ddde93dce16445d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f1aafa9235c9e2adcf5341069410f127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f1aafa9235c9e2adcf5341069410f127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\575d08aaab672911bb5e0ebef72598bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\575d08aaab672911bb5e0ebef72598bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a6c3996189a8963c2e59394e2b41992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2a6c3996189a8963c2e59394e2b41992\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\398220bb1db4c4e0a55cc350d8548bb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\398220bb1db4c4e0a55cc350d8548bb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16d5f05c7db2ca04c896f3c1aa23e138\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\16d5f05c7db2ca04c896f3c1aa23e138\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fe83cebdc5886f276e3f7116773305c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fe83cebdc5886f276e3f7116773305c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f60fcffea2654fb5f3a11049faa43fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f60fcffea2654fb5f3a11049faa43fa5\AndroidManifest.xml:20:5-44
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		ADDED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+		INJECTED from D:\software\MAXST\Samples\MaxstARSample\src\main\AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:13:13-52
+	android:configChanges
+		ADDED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:12:13-144
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.2.0] C:\Users\pepper\.gradle\caches\transforms-1\files-1.1\tedpermission-2.2.0.aar\af0f86ffae0b9df8165d2aee80be970d\AndroidManifest.xml:11:13-75

@@ -1,0 +1,4 @@
+#Sat Oct 27 21:27:00 CST 2018
+base.0=D\:\\software\\MAXST\\Samples\\MaxstARSample\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
